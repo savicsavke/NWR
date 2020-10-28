@@ -1,0 +1,11 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.responsive {
+  background-color: gray;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,8 @@
+@mixin media {
+    @media(min-width: 1000px;){
+        .responsive{
+            background-color: green;
+            @include media;
+        }
+    }
+}

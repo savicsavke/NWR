@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .navbar-nav a {
+    color: rgb(82, 157, 255)!important;
+    font-weight: bold;
+  }
+  
+  .bg-light{
+    background-color: white!important;
+  }
+  
+  .container-fluid img{
+      height: 600px;
+  }  
+
+  form{
+      border: solid 0.5px;
+      border-radius: 5px;
+  }
