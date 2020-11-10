@@ -1,0 +1,25 @@
+a, b, c, suma = 0 
+-1, 2 , 5
+suma= 0
+suma = 2 + 5
+suma = 7
+
+a > 0
+    suma = suma + a 
+    0 = 0 + a
+b > 0
+
+c > 0 
+
+
+
+a++
+b--
+--a
+--b
+
+a++
+a = a + 1
+
+a--
+a = a - 1 
